@@ -19,10 +19,13 @@ This project has 5 java classes
 
 # Screen Shots
 
-![screen1](screen_shots/Screenshot_20171021-133505.png "Home page create new cards/select dropdown")
-![screen1](screen_shots/Screenshot_20171021-133554.png "Home page launch conversion page/delete card")
-![screen2](screen_shots/Screenshot_20171021-133425.png "Conversion page Bitcoin")
-![screen4](screen_shots/Screenshot_20171021-133446.png "Conversion page Ethereum")
+<img src="screen_shots/Screenshot_20171021-133505.png" width="200" height="400"/>
+
+<img src="screen_shots/Screenshot_20171021-133554.png" width="200" height="400"/>
+
+<img src="screen_shots/Screenshot_20171021-133425.png" width="200" height="400"/>
+
+<img src="screen_shots/Screenshot_20171021-133446.png" width="200" height="400"/>
 
 
 
