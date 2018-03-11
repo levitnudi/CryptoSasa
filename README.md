@@ -28,5 +28,7 @@ This project has 5 java classes
 <img src="screen_shots/Screenshot_20171021-133446.png" width="200" height="400"/>
 
 
-
 # Author : Levit Nudi [![LinkedIn](http://www.fftimes.com/sites/all/modules/socialmedia/icons/levelten/glossy/32x32/linkedin.png)](https://www.linkedin.com/in/levitnudi/)
+
+[![LinkedIn](https://www.newsforpublic.com/wp-content/uploads/2015/08/buy-me-a-coffee.png)](https://levitnudi7.wixsite.com/legacy)
+
