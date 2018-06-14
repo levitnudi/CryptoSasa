@@ -6,7 +6,7 @@ Users can create cards on the application screen to show the exchange rate betwe
 currency including Naira. Clicking each card should take you to conversion screen. User can enter an amount to be converted in a base currency
 User should get conversion result.
 
-# Classes
+## Classes
 This project has 5 java classes
 1. AboutActivity
 2. HomeActivity
@@ -17,7 +17,7 @@ This project has 5 java classes
 [<img src="http://style.anu.edu.au/_anu/images/icons/icon-google-play-small.png">](https://play.google.com/store/apps/details?id=com.cryptosasa)
 
 
-# Screen Shots
+## Screen Shots
 
 <img src="screen_shots/Screenshot_20171021-133505.png" width="200" height="400"/>
 
